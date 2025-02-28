@@ -1,3 +1,5 @@
+<link rel="icon" href="data:,">
+
 <?php
 
 echo '<h1>Welcome To The Redirect File!</h1>';
