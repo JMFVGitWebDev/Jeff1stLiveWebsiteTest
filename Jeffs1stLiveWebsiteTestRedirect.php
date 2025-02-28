@@ -1,5 +1,7 @@
 <?php
 
+echo '<h1>Welcome To The Redirect File!</h1>';
+
 session_start();
 
 $_SESSION['customercode'] = "JeffLLC";
