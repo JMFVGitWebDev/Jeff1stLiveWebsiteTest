@@ -13,7 +13,7 @@ $_SESSION['application'] = "JeffTestApp";
 
 
 
-header('Location: https://jmfvgitwebdev.github.io/Jeff1stLiveWebsiteTest/onebigcomponent.php');
+//header('Location: https://jmfvgitwebdev.github.io/Jeff1stLiveWebsiteTest/onebigcomponent.php');
 
 
 
