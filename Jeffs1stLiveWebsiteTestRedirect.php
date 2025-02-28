@@ -1,4 +1,12 @@
-<link rel="icon" href="data:,">
+<html>
+<head>
+  <link rel="shortcut icon" href="#"></link>
+</head>
+  
+</html>
+
+
+
 
 <?php
 
